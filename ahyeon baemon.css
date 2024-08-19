@@ -1,0 +1,20 @@
+
+body{
+    background-color:#b8bad8;
+}
+h1{
+
+    font-family:comic;
+    font-style: italic;
+    font-weight: bolder;
+    font-size:50px;
+}
+#p1{
+    font-size:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border:5px solid;
+    
+    background-color: antiquewhite;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
